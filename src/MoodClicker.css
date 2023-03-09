@@ -1,0 +1,15 @@
+.dark{
+  background-color: darkslateblue;
+}
+
+.light{
+  background-color: lightblue;
+}
+.dark button{
+background-color: lightblue;
+}
+.light button{
+  background-color: darkslateblue;
+  color:white;
+
+}
